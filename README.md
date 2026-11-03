@@ -9,7 +9,8 @@ An AI-powered agricultural prototype that analyzes soil and environmental condit
 [Explore AgriNextera AI](https://agrinextera-ai.streamlit.app/)
 
 ## 📊 Project Presentation
-[View Project Presentation (PDF)](AgriNextera_AI_Smart_Irrigation.pdf)
+
+[📥 View / Download AgriNextera AI Presentation (PPTX)](AgriNextera_AI_Smart_Irrigation_.pptx)
 
 ## ✨ Features
 - Field-condition-based ML predictions
